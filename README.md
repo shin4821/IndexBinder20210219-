@@ -3,6 +3,7 @@
 
 * 기간: 2021.12.02 ~ 2020.12.16, 2021.02.05 ~ 2021.02.19
 * 사용언어: C
+* 개발환경: Visual Studio 2019
 * 사용기술 
   - 직접 LinkedList Library, BinaryTree Library를 만들어서 사용.
   - API
